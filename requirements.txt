@@ -3,4 +3,4 @@ matplotlib
 numpy
 jupyter
 ipyleaflet
-requests
+jupyter_contrib_nbextensions
